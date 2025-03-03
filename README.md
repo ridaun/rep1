@@ -1,7 +1,9 @@
-# rep1
-Test
+<h1 align="center">Hi 👋, I'm Ridaun</h1>
+<h3 align="center">Someone from Bangladesh</h3>
 
--------------------------------------------------------------
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-MERGE IT BRO
-![you are seeing a .gif , trust me bro]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdo-it-just-do-it-gifs&psig=AOvVaw13oe706aWIurMpcQrZpsWK&ust=1740969364764000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJic86Ku6osDFQAAAAAdAAAAABAh))
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
